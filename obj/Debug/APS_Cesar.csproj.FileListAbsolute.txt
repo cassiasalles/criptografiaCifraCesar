@@ -1,0 +1,21 @@
+C:\Users\max_d\Documents\Facul\APS_2sem\APS_Cesar\APS_Cesar\obj\Debug\APS_Cesar.csprojAssemblyReference.cache
+C:\Users\max_d\Documents\Facul\APS_2sem\APS_Cesar\APS_Cesar\obj\Debug\APS_Cesar.csproj.CoreCompileInputs.cache
+C:\Users\max_d\Documents\Facul\APS_2sem\APS_Cesar\APS_Cesar\bin\Debug\APS_Cesar.exe.config
+C:\Users\max_d\Documents\Facul\APS_2sem\APS_Cesar\APS_Cesar\bin\Debug\APS_Cesar.exe
+C:\Users\max_d\Documents\Facul\APS_2sem\APS_Cesar\APS_Cesar\bin\Debug\APS_Cesar.pdb
+C:\Users\max_d\Documents\Facul\APS_2sem\APS_Cesar\APS_Cesar\obj\Debug\APS_Cesar.exe
+C:\Users\max_d\Documents\Facul\APS_2sem\APS_Cesar\APS_Cesar\obj\Debug\APS_Cesar.pdb
+C:\Users\miste\Documents\UNIP CC\APS 2\APS_Cesar\APS_Cesar\obj\Debug\APS_Cesar.csprojAssemblyReference.cache
+C:\Users\miste\Documents\UNIP CC\APS 2\APS_Cesar\APS_Cesar\obj\Debug\APS_Cesar.csproj.CoreCompileInputs.cache
+C:\Users\miste\Documents\UNIP CC\APS 2\APS_Cesar\APS_Cesar\obj\Debug\APS_Cesar.exe
+C:\Users\miste\Documents\UNIP CC\APS 2\APS_Cesar\APS_Cesar\obj\Debug\APS_Cesar.pdb
+C:\Users\miste\Documents\UNIP CC\APS 2\APS_Cesar\APS_Cesar\bin\Debug\APS_Cesar.exe.config
+C:\Users\miste\Documents\UNIP CC\APS 2\APS_Cesar\APS_Cesar\bin\Debug\APS_Cesar.exe
+C:\Users\miste\Documents\UNIP CC\APS 2\APS_Cesar\APS_Cesar\bin\Debug\APS_Cesar.pdb
+C:\Users\miste\Documents\UNIP CC\APS 2\APS_Cesar_V2\APS_Cesar\bin\Debug\APS_Cesar.exe.config
+C:\Users\miste\Documents\UNIP CC\APS 2\APS_Cesar_V2\APS_Cesar\bin\Debug\APS_Cesar.exe
+C:\Users\miste\Documents\UNIP CC\APS 2\APS_Cesar_V2\APS_Cesar\bin\Debug\APS_Cesar.pdb
+C:\Users\miste\Documents\UNIP CC\APS 2\APS_Cesar_V2\APS_Cesar\obj\Debug\APS_Cesar.csprojAssemblyReference.cache
+C:\Users\miste\Documents\UNIP CC\APS 2\APS_Cesar_V2\APS_Cesar\obj\Debug\APS_Cesar.csproj.CoreCompileInputs.cache
+C:\Users\miste\Documents\UNIP CC\APS 2\APS_Cesar_V2\APS_Cesar\obj\Debug\APS_Cesar.exe
+C:\Users\miste\Documents\UNIP CC\APS 2\APS_Cesar_V2\APS_Cesar\obj\Debug\APS_Cesar.pdb
